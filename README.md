@@ -8,8 +8,8 @@
 *Binary Search
 *Find Maximum Sub Array
 
-## Based from the book ##
-### Introduction to Algorithms, Third Edition ###
+### Based from the book ###
+#### Introduction to Algorithms, Third Edition ####
 * Thomas H. Cormen
 * Charles E. Leiseron
 * Ronald L. Rivest
