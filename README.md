@@ -3,10 +3,10 @@
 ## Combinatorics and Algorithm Design ##
 
 ### Algorithms Added ###
-*Merge Sort
-*Quick Sort
-*Binary Search
-*Find Maximum Sub Array
+* Merge Sort
+* Quick Sort
+* Binary Search
+* Find Maximum Sub Array
 
 ### Based from the book ###
 #### Introduction to Algorithms, Third Edition ####
