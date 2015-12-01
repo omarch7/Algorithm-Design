@@ -1,12 +1,13 @@
-# Algorithms
+# Algorithms #
 
 ## Combinatorics and Algorithm Design ##
 
-### Algorithms Added ###
+### Algorithms ###
 * Merge Sort
 * Quick Sort
 * Binary Search
 * Find Maximum Sub Array
+* Counting Sort
 
 ### Based from the book ###
 #### Introduction to Algorithms, Third Edition ####
@@ -15,6 +16,8 @@
 * Ronald L. Rivest
 * Clifford Stein
 
-Written by 
+_Written by_
+
 Omar Contreras, Tsinghua University Computer Science Department 2015
+
 奥玛，清华大学 计算机科学系 2015
